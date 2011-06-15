@@ -1,4 +1,14 @@
 
+0.0.7 / 2011-06-14 
+==================
+
+  * Fixed resource canonicalization
+
+0.0.6 / 2011-06-07 
+==================
+
+  * Fixed; ignoring certain query params when preparing stringToSign. [Rajiv Navada]
+
 0.0.4 / 2011-05-20 
 ==================
 
